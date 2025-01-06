@@ -2,12 +2,15 @@
 This is is being used for pydantic course
 
 # Installation
-%python
+```bash
 git clone https://github.com/esourda/learn_pydantic.git
+```
 
 # Development
 
-%python
+```bash
+cd {REPO FOLDER}
 python3.11 -m venv .venv311
 source .venv311/bin/activate
 pip install -r requirement.txt
+```
