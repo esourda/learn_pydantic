@@ -12,5 +12,5 @@ git clone https://github.com/esourda/learn_pydantic.git
 cd {REPO FOLDER}
 python3.11 -m venv .venv311
 source .venv311/bin/activate
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
